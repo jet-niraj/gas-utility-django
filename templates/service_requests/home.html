@@ -1,0 +1,64 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container py-5">
+    <div class="text-center mb-5">
+        <h1 class="display-4 mb-3">Welcome to Gas Utility Service Portal</h1>
+        <p class="lead text-muted">Manage your gas utility service requests efficiently and securely</p>
+    </div>
+
+    <div class="row g-4 py-3">
+        <div class="col-md-4">
+            <div class="card h-100 text-center">
+                <div class="card-body">
+                    <i class="fas fa-clipboard-list fa-3x text-primary mb-3"></i>
+                    <h3 class="card-title h4">Submit Requests</h3>
+                    <p class="card-text">Submit and track your service requests online with ease.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card h-100 text-center">
+                <div class="card-body">
+                    <i class="fas fa-clock fa-3x text-warning mb-3"></i>
+                    <h3 class="card-title h4">Real-time Updates</h3>
+                    <p class="card-text">Get instant updates on the status of your requests.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card h-100 text-center">
+                <div class="card-body">
+                    <i class="fas fa-headset fa-3x text-success mb-3"></i>
+                    <h3 class="card-title h4">24/7 Support</h3>
+                    <p class="card-text">Our support team is always here to help you.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="text-center mt-5">
+        {% if user.is_authenticated %}
+            <a href="{% url 'service_requests:create_request' %}" class="btn btn-primary btn-lg me-3">
+                <i class="fas fa-plus-circle"></i> Submit New Request
+            </a>
+            <a href="{% url 'service_requests:request_list' %}" class="btn btn-outline-primary btn-lg">
+                <i class="fas fa-list"></i> View My Requests
+            </a>
+        {% else %}
+            <div class="card shadow-sm p-4 mx-auto" style="max-width: 500px;">
+                <h4 class="mb-3">Get Started</h4>
+                <p class="text-muted mb-4">Login or create an account to submit and track your service requests.</p>
+                <div>
+                    <a href="{% url 'login' %}" class="btn btn-primary btn-lg me-3">
+                        <i class="fas fa-sign-in-alt"></i> Login
+                    </a>
+                    <a href="{% url 'service_requests:register' %}" class="btn btn-outline-primary btn-lg">
+                        <i class="fas fa-user-plus"></i> Register
+                    </a>
+                </div>
+            </div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %} 
