@@ -98,7 +98,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ### Home Page  
 ![Home Page](https://github.com/jet-niraj/gas-utility-django/raw/main/screenshots/home_page.png)
 
-### Service Request Page  
+### Service Request  status Page  
 ![Service Request](https://github.com/jet-niraj/gas-utility-django/raw/main/screenshots/servicerequest.png)
 
 ### User Registration Page  
@@ -110,8 +110,8 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ### User Request List Page  
 ![User Request List](/screenshots/requestlist.png)
 
-### Service Request Detail Page  
-![Service Request Detail](/screenshots/servicerequest_detail.png)
+### User dashboard Page  
+![User dashboard](/screenshots/userdashboard.png)
 
 ### Add New Request Page  
 ![Add New Request](/screenshots/addrequest.png)
