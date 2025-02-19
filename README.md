@@ -83,14 +83,9 @@ The Gas Utility Service Portal is a web application built with Django that allow
 
 The admin panel allows administrators to manage customers and service requests. Admins can view all service requests, update their status, and manage customer information.
 
-
-```
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
-
-
 
 ## Acknowledgments
 
@@ -98,29 +93,25 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 - Bootstrap for responsive design.
 - Font Awesome for icons.
 
-
-
 ## Screenshots 📸
 
 ### Home Page  
-![Home Page](https://github.com/jet-niraj/gas-utility-django/blob/main/home_page.png?raw=true)
-
-![Home Page](home_page.png)
+![Home Page](https://github.com/jet-niraj/gas-utility-django/raw/main/screenshots/home_page.png)
 
 ### Service Request Page  
-![Service Request](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/servicerequest.png)
+![Service Request](https://github.com/jet-niraj/gas-utility-django/raw/main/screenshots/servicerequest.png)
 
 ### User Registration Page  
-![User Registration](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/register.png)
+![User Registration](/screenshots/register.png)
 
 ### User Login Page  
-![User Login](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/login.png)
+![User Login](/screenshots/login.png)
 
 ### User Request List Page  
-![User Request List](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/requestlist.png)
+![User Request List](/screenshots/requestlist.png)
 
 ### Service Request Detail Page  
-![Service Request Detail](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/servicerequest.png)
+![Service Request Detail](/screenshots/servicerequest_detail.png)
 
 ### Add New Request Page  
-![Add New Request](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/addrequest.png)
+![Add New Request](/screenshots/addrequest.png)
