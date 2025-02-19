@@ -98,7 +98,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 - Bootstrap for responsive design.
 - Font Awesome for icons.
 
-## Screenshots 📸
+
 
 ## Screenshots 📸
 
