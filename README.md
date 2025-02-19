@@ -104,10 +104,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ### Home Page  
-![Home Page](https://github.com/jet-niraj/gas-utility-django/blob/main/homepage.png)
+![Home Page](https://github.com/jet-niraj/gas-utility-django/blob/main/home.png)
 
 ### Service Request Page  
-![Service Request](https://github.com/jet-niraj/gas-utility-django/blob/main/service_request.png)
+![Service Request](https://github.com/jet-niraj/gas-utility-django/blob/main/servicerequest.png)
 
 ### User Registration Page  
 ![User Registration](https://github.com/jet-niraj/gas-utility-django/blob/main/register.png)
