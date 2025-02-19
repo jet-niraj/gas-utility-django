@@ -104,24 +104,24 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ### Home Page  
-![Home Page](homepage.png)
+![Home Page](https://github.com/jet-niraj/gas-utility-django/blob/main/homepage.png)
 
 ### Service Request Page  
-![Service Request](service_request.png)
+![Service Request](https://github.com/jet-niraj/gas-utility-django/blob/main/service_request.png)
 
 ### User Registration Page  
-![User Registration](user_registration.png)
+![User Registration](https://github.com/jet-niraj/gas-utility-django/blob/main/register.png)
 
 ### User Login Page  
-![User Login](user_login.png)
+![User Login](https://github.com/jet-niraj/gas-utility-django/blob/main/login.png)
 
 ### User Request List Page  
-![User Request List](user_request_list.png)
+![User Request List](https://github.com/jet-niraj/gas-utility-django/blob/main/request_list.png)
 
 ### Service Request Detail Page  
-![Service Request Detail](service_request_detail.png)
+![Service Request Detail](https://github.com/jet-niraj/gas-utility-django/blob/main/request_detail.png)
 
 ### Add New Request Page  
-![Add New Request](add_new_request.png)
+![Add New Request](https://github.com/jet-niraj/gas-utility-django/blob/main/add_request.png)
 
 
