@@ -103,7 +103,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ## Screenshots 📸
 
 ### Home Page  
-![Home Page](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/home_page.png)
+![Home Page](https://github.com/jet-niraj/gas-utility-django/blob/main/home_page.png?raw=true)
 
 ![Home Page](home_page.png)
 
