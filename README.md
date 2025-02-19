@@ -101,23 +101,28 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Font Awesome for icons.
 
 ## Screenshots 📸
+## Screenshots 📸
+
 ### Home Page  
-![Home Page](screenshots/homepage.png)
+[![Home Page](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/homepage.png)](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/homepage.png)
 
 ### Service Request Page  
-![Service Request](screenshots/service_request.png)
+[![Service Request](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/service_request.png)](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/service_request.png)
 
 ### User Registration Page  
-![User Registration](screenshots/user_registration.png)
+[![User Registration](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/user_registration.png)](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/user_registration.png)
 
 ### User Login Page  
-![User Login](screenshots/user_login.png)
+[![User Login](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/user_login.png)](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/user_login.png)
 
 ### User Request List  
-![User Request List](screenshots/user_request_list.png)
+[![User Request List](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/user_request_list.png)](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/user_request_list.png)
 
 ### Service Request Detail  
-![Service Request Detail](screenshots/service_request_detail.png)
+[![Service Request Detail](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/service_request_detail.png)](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/service_request_detail.png)
+
+### Add New Request  
+[![Add New Request](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/add_new_request.png)](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/add_new_request.png)
 
 ### Add New Request  
 ![Add New Request](screenshots/add_new_request.png)
