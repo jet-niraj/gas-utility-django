@@ -90,9 +90,7 @@ The admin panel allows administrators to manage customers and service requests. 
 
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -102,26 +100,25 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Screenshots 📸
 
+## Screenshots 📸
 
 ### Home Page  
-![Home Page](https://github.com/jet-niraj/gas-utility-django/blob/main/home.png)
+![Home Page](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/home.png)
 
 ### Service Request Page  
-![Service Request](https://github.com/jet-niraj/gas-utility-django/blob/main/servicerequest.png)
+![Service Request](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/servicerequest.png)
 
 ### User Registration Page  
-![User Registration](https://github.com/jet-niraj/gas-utility-django/blob/main/register.png)
+![User Registration](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/register.png)
 
 ### User Login Page  
-![User Login](https://github.com/jet-niraj/gas-utility-django/blob/main/login.png)
+![User Login](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/login.png)
 
 ### User Request List Page  
-![User Request List](https://github.com/jet-niraj/gas-utility-django/blob/main/request_list.png)
+![User Request List](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/requestlist.png)
 
 ### Service Request Detail Page  
-![Service Request Detail](https://github.com/jet-niraj/gas-utility-django/blob/main/request_detail.png)
+![Service Request Detail](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/servicerequest.png)
 
 ### Add New Request Page  
-![Add New Request](https://github.com/jet-niraj/gas-utility-django/blob/main/add_request.png)
-
-
+![Add New Request](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/addrequest.png)
