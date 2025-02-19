@@ -100,31 +100,30 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Bootstrap for responsive design.
 - Font Awesome for icons.
 
-
 ## Screenshots 📸
 
 ### Home Page  
-![Home Page](screenshots/homepage.png)
+[![Home Page](screenshots/homepage.png)](screenshots/homepage.png)
 
 ### Service Request Page  
-![Service Request](screenshots/service_request.png)
+[![Service Request](screenshots/service_request.png)](screenshots/service_request.png)
 
-### user registration page  
-![user registration](screenshots/user_registration.png)
+### User Registration Page  
+[![User Registration](screenshots/user_registration.png)](screenshots/user_registration.png)
 
-### user login page  
-![user login](screenshots/user_login.png)
+### User Login Page  
+[![User Login](screenshots/user_login.png)](screenshots/user_login.png)
 
+### User Request List  
+[![User Request List](screenshots/user_request_list.png)](screenshots/user_request_list.png)
 
-### user request list  
-![user request list](screenshots/user_request_list.png)
+### Service Request Detail  
+[![Service Request Detail](screenshots/service_request_detail.png)](screenshots/service_request_detail.png)
 
-### service request detail  
-![service request detail](screenshots/service_request_detail.png)
+[![Home Page](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/home.png)](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/home.png)
 
-### add new request  
-![add new request](screenshots/add_new_request.png)
-
+### Add New Request  
+[![Add New Request](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/add_new_request.png)](https://raw.githubusercontent.com/jet-niraj/gas-utility-django/main/screenshots/add_new_request.png)
 
 
 
